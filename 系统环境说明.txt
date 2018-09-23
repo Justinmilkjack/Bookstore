@@ -1,0 +1,5 @@
+开发环境：
+	tomcat7 + jdk8+mysql + MyEclipse
+	Spring + Springmvc + Hibernate
+主页：
+	http://127.0.0.1:8081/bookstoretest/index
